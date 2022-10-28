@@ -3,3 +3,4 @@ models/engine/__pycache__/
 web_dynamic/__pycache__
 web_dynamic/__pycache__/0-hbnb.cpython-38.pyc
 web_dynamic./__pycache__/__init__.cpython-38.pyc
+10-filter_dump.sql
